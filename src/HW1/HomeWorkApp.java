@@ -27,7 +27,7 @@ compareNumbers();
 
     }
 public static void printColor() {
-        int value = 50;
+        int value = 150;
         if (value <= 0) {
             System.out.println("Красный");
         } else {
